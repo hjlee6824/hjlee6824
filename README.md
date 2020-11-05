@@ -4,4 +4,5 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lightjean)](https://solved.ac/lightjean)
 
-여러가지 해보려고 노력 중
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lightjean.visitor-badge)
+앞으로 뭘 하고 싶은지 모르겠다
