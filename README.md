@@ -8,4 +8,4 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lightjean.visitor-badge)
 
-앞으로 뭘 하고 싶은지 모르겠다
+2020.11.05 Unity 공부 시작
