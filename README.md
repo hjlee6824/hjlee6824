@@ -1,6 +1,6 @@
 <div align=center>
 
-### 안녕하세요 👋
+### 안녕하세요
   
 [![LightJean's github stats](https://github-readme-stats.vercel.app/api?username=lightjean)](https://github.com/anuraghazra/github-readme-stats)
 
