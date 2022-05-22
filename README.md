@@ -10,7 +10,7 @@
 > Currently working as a Social Service Agent (~10/23/2023)
 
 <!-- Projects -->
-### My projects
+### My projects...
 * [RhythmGame] : A rhythm game based on osu!mania. (WIP)
 
 <!-- Badges -->
@@ -30,7 +30,7 @@
 
 </p>
 
-### Socials
+### Socials...
 [![Tistory](https://img.shields.io/badge/Tistory-444444.svg?style=for-the-badge)](https://lightjean.tistory.com)
 [![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white)](https://osu.ppy.sh/users/9984103)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/352857485104775179)
