@@ -31,7 +31,6 @@
 </p>
 
 ### Socials...
-[![Tistory](https://img.shields.io/badge/Tistory-444444.svg?style=for-the-badge)](https://lightjean.tistory.com)
 [![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white)](https://osu.ppy.sh/users/9984103)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/352857485104775179)
 
@@ -40,4 +39,4 @@
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:644db8,100:2d1878&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
 
-[RhythmGame]: https://github.com/lightjean/RhythmGame
+[RhythmGame]: https://github.com/heejinn/RhythmGame
