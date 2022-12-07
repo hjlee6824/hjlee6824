@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:644db8,100:2d1878&height=200&section=header&text=Heejin's%20GitHub&desc=Wannabe%20a%20game%20client%20developer&fontColor=FFFFFF&animation=twinkling&fontSize=60&fontAlignY=35&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:644db8,100:2d1878&height=200&section=header&text=Heejin's%20GitHub&desc=Wannabe%20a%20game%20developer&fontColor=FFFFFF&animation=twinkling&fontSize=60&fontAlignY=35&descAlign=60&descAlignY=50)
 
 *We began as wanderers, and we are wanderers still.*  
 *We are the people who crazy enough, and we can change the world.*
