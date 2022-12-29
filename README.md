@@ -30,4 +30,4 @@
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2D0D6B,100:2D0D6B&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
 
-[RhythmGame]: https://github.com/Luudaa/RhythmGame
+[RhythmGame]: https://github.com/heejinn/RhythmGame
