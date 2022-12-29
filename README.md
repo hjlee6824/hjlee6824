@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:361E5D,100:361E5D&height=200&section=header&text=Heejin's%20GitHub&desc=Wannabe%20a%20game%20developer&fontColor=FFFFFF&animation=twinkling&fontSize=60&fontAlignY=35&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:351963,100:351963&height=200&section=header&text=Heejin's%20GitHub&desc=Wannabe%20a%20game%20developer&fontColor=FFFFFF&animation=twinkling&fontSize=60&fontAlignY=35&descAlign=60&descAlignY=50)
 
 *We began as wanderers, and we are wanderers still.*  
 *We are the people who crazy enough, and we can change the world.*
@@ -27,6 +27,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lightjean)](https://solved.ac/profile/lightjean)
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:361E5D,100:361E5D&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:351963,100:351963&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
 
 [RhythmGame]: https://github.com/Luudaa/RhythmGame
