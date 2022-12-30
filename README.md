@@ -5,7 +5,7 @@
 *We are the people who crazy enough, and we can change the world.*
 
 <!-- Greetings -->
-## Hi! I'm Heejin Lee! 🙂
+## Hi! I'm Heejin! 🙂
 > Mar 2019 – current Pukyong National University, Busan / Bachelor of Computer Engineering  
 > Currently working as a Social Service Agent (~10/23/2023)
 
