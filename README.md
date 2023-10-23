@@ -11,7 +11,7 @@
 
 <!-- Projects -->
 ### My projects
-* [RhythmGame] : A prototype rhythm game based on osu!mania. (WIP)
+* [RhythmGame]: A prototype rhythm game based on osu!mania. (WIP)
 
 ### I'm currently learning
 <p>
