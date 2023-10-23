@@ -7,11 +7,11 @@
 <!-- Greetings -->
 ## Hi! I'm Heejin! 🙂
 > Mar 2019 – current Pukyong National University, Busan / Bachelor of Computer Engineering  
-> Currently working as a Social Service Agent (~10/23/2023)
+> Worked as a Social Service Agent (01/24/2022 ~ 10/23/2023)
 
 <!-- Projects -->
 ### My projects
-* [RhythmGame] : A rhythm game based on osu!mania. (WIP)
+* [RhythmGame] : A prototype rhythm game based on osu!mania. (WIP)
 
 ### I'm currently learning
 <p>
