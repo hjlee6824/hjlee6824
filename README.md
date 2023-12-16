@@ -24,7 +24,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hjlee6824)](https://solved.ac/profile/hjlee6824)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={hjlee6824}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hjlee6824&theme=warm)
 
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0FB4FF,100:0FB4FF&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
