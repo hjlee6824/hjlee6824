@@ -1,7 +1,7 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0FB4FF,100:0FB4FF&height=200&section=header&text=Heejin's%20GitHub&desc=&fontColor=FFFFFF&animation=twinkling&fontSize=60&fontAlignY=35&descAlign=60&descAlignY=50)
-
 <div align="center">
+ <!-- Header -->
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0FB4FF,100:0FB4FF&height=200&section=header&text=Heejin's%20GitHub&desc=&fontColor=FFFFFF&animation=twinkling&fontSize=60&fontAlignY=35&descAlign=60&descAlignY=50)
+
   *We began as wanderers, and we are wanderers still.*  
   *We are the people who crazy enough, and we can change the world.*
   
@@ -18,7 +18,7 @@
   
   ### BOJ
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hjlee6824)](https://solved.ac/profile/hjlee6824)
-</div>
 
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0FB4FF,100:0FB4FF&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
+ <!-- Footer -->
+ ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0FB4FF,100:0FB4FF&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
+</div>
