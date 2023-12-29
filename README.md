@@ -6,16 +6,9 @@
 
 <!-- Greetings -->
 ## Hi! I'm Heejin! 🙂
-> Mar 2019 – current Pukyong National University, Busan / Bachelor of Computer Engineering  
-> Worked as a Social Service Agent (01/24/2022 ~ 10/23/2023)
-
-<!-- Projects -->
-### My projects
-* [RhythmGame] : A prototype rhythm game based on osu!mania. (WIP)
-
-### I'm currently learning
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=CSharp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 </p>
 
