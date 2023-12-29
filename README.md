@@ -8,7 +8,7 @@
 ## Hi! I'm Heejin! 🙂
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=C#&logoColor=white">
+  <img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 </p>
 
@@ -17,9 +17,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hjlee6824)](https://solved.ac/profile/hjlee6824)
 
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hjlee6824&theme=warm)](https://solved.ac/profile/hjlee6824)
-
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0FB4FF,100:0FB4FF&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
-
-[RhythmGame]: https://github.com/heejinn/RhythmGame
