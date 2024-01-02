@@ -17,5 +17,5 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hjlee6824)](https://solved.ac/profile/hjlee6824)
 
  <!-- Footer -->
- ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0FB4FF,100:0FB4FF&height=150&section=footer&text=Do%20your%20best!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
+ ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0FB4FF,100:0FB4FF&height=150&section=footer&text=Welcome%20to%20my%20GitHub!&fontColor=FFFFFF&fontSize=30&fontAlignY=70)
 </div>
