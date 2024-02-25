@@ -11,6 +11,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/352857485104775179)
   
 ### Problem Solving
-23/10/21~ 매일 최소 1문제 풀기 진행 중
+23/10/21~
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hjlee6824)](https://solved.ac/profile/hjlee6824)
