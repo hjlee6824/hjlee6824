@@ -1,4 +1,4 @@
-## Heejin's GitHub
+### Heejin's GitHub
 
 2019.03 ~ 2025.02 국립부경대학교 컴퓨터·인공지능공학부 컴퓨터공학전공
 
@@ -13,6 +13,4 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/352857485104775179)
   
 ### Problem Solving
-23/10/21~
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hjlee6824)](https://solved.ac/profile/hjlee6824)
