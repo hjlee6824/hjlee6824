@@ -1,5 +1,7 @@
 ### Heejin's GitHub
 
+2016.03 ~ 2023.02 국립부경대학교 컴퓨터·인공지능공학부 컴퓨터공학전공
+
 ### Skills
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
